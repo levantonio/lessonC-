@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\bin\Debug\net6.0\lesson005_Random.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\bin\Debug\net6.0\lesson005_Random.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\bin\Debug\net6.0\lesson005_Random.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\bin\Debug\net6.0\lesson005_Random.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\bin\Debug\net6.0\lesson005_Random.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\obj\Debug\net6.0\lesson005_Random.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\obj\Debug\net6.0\lesson005_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\obj\Debug\net6.0\lesson005_Random.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\obj\Debug\net6.0\lesson005_Random.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\obj\Debug\net6.0\lesson005_Random.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\obj\Debug\net6.0\lesson005_Random.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\obj\Debug\net6.0\refint\lesson005_Random.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\obj\Debug\net6.0\lesson005_Random.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\obj\Debug\net6.0\lesson005_Random.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson005_Random\obj\Debug\net6.0\ref\lesson005_Random.dll
