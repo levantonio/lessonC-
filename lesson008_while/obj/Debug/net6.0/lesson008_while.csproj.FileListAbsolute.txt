@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\obj\Debug\net6.0\lesson008_while.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\obj\Debug\net6.0\lesson008_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\obj\Debug\net6.0\lesson008_while.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\obj\Debug\net6.0\lesson008_while.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\obj\Debug\net6.0\lesson008_while.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\bin\Debug\net6.0\lesson008_while.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\bin\Debug\net6.0\lesson008_while.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\bin\Debug\net6.0\lesson008_while.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\bin\Debug\net6.0\lesson008_while.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\bin\Debug\net6.0\lesson008_while.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\obj\Debug\net6.0\lesson008_while.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\obj\Debug\net6.0\refint\lesson008_while.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\obj\Debug\net6.0\lesson008_while.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\obj\Debug\net6.0\lesson008_while.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson008_while\obj\Debug\net6.0\ref\lesson008_while.dll
