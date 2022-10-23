@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\bin\Debug\net6.0\lesson003_sum.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\bin\Debug\net6.0\lesson003_sum.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\bin\Debug\net6.0\lesson003_sum.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\bin\Debug\net6.0\lesson003_sum.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\bin\Debug\net6.0\lesson003_sum.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\obj\Debug\net6.0\lesson003_sum.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\obj\Debug\net6.0\lesson003_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\obj\Debug\net6.0\lesson003_sum.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\obj\Debug\net6.0\lesson003_sum.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\obj\Debug\net6.0\lesson003_sum.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\obj\Debug\net6.0\lesson003_sum.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\obj\Debug\net6.0\refint\lesson003_sum.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\obj\Debug\net6.0\lesson003_sum.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\obj\Debug\net6.0\lesson003_sum.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson003_sum\obj\Debug\net6.0\ref\lesson003_sum.dll
