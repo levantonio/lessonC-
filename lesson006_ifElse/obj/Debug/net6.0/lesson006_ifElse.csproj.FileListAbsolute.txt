@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\bin\Debug\net6.0\lesson006_ifElse.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\bin\Debug\net6.0\lesson006_ifElse.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\bin\Debug\net6.0\lesson006_ifElse.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\bin\Debug\net6.0\lesson006_ifElse.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\bin\Debug\net6.0\lesson006_ifElse.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\obj\Debug\net6.0\lesson006_ifElse.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\obj\Debug\net6.0\lesson006_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\obj\Debug\net6.0\lesson006_ifElse.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\obj\Debug\net6.0\lesson006_ifElse.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\obj\Debug\net6.0\lesson006_ifElse.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\obj\Debug\net6.0\lesson006_ifElse.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\obj\Debug\net6.0\refint\lesson006_ifElse.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\obj\Debug\net6.0\lesson006_ifElse.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\obj\Debug\net6.0\lesson006_ifElse.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson006_ifElse\obj\Debug\net6.0\ref\lesson006_ifElse.dll
