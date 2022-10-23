@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\bin\Debug\net6.0\lesson001_consoleStartt.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\bin\Debug\net6.0\lesson001_consoleStartt.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\bin\Debug\net6.0\lesson001_consoleStartt.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\bin\Debug\net6.0\lesson001_consoleStartt.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\bin\Debug\net6.0\lesson001_consoleStartt.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\obj\Debug\net6.0\lesson001_consoleStartt.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\obj\Debug\net6.0\lesson001_consoleStartt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\obj\Debug\net6.0\lesson001_consoleStartt.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\obj\Debug\net6.0\lesson001_consoleStartt.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\obj\Debug\net6.0\lesson001_consoleStartt.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\obj\Debug\net6.0\lesson001_consoleStartt.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\obj\Debug\net6.0\refint\lesson001_consoleStartt.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\obj\Debug\net6.0\lesson001_consoleStartt.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\obj\Debug\net6.0\lesson001_consoleStartt.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson001_consoleStartt\obj\Debug\net6.0\ref\lesson001_consoleStartt.dll
