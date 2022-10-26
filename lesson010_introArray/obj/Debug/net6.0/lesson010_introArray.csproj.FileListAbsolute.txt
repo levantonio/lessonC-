@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\bin\Debug\net6.0\lesson010_introArray.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\bin\Debug\net6.0\lesson010_introArray.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\bin\Debug\net6.0\lesson010_introArray.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\bin\Debug\net6.0\lesson010_introArray.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\bin\Debug\net6.0\lesson010_introArray.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\obj\Debug\net6.0\lesson010_introArray.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\obj\Debug\net6.0\lesson010_introArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\obj\Debug\net6.0\lesson010_introArray.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\obj\Debug\net6.0\lesson010_introArray.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\obj\Debug\net6.0\lesson010_introArray.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\obj\Debug\net6.0\lesson010_introArray.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\obj\Debug\net6.0\refint\lesson010_introArray.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\obj\Debug\net6.0\lesson010_introArray.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\obj\Debug\net6.0\lesson010_introArray.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson010_introArray\obj\Debug\net6.0\ref\lesson010_introArray.dll
