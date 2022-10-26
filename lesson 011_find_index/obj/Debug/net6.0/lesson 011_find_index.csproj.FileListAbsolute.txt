@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\obj\Debug\net6.0\lesson 011_find_index.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\obj\Debug\net6.0\lesson 011_find_index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\obj\Debug\net6.0\lesson 011_find_index.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\obj\Debug\net6.0\lesson 011_find_index.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\obj\Debug\net6.0\lesson 011_find_index.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\bin\Debug\net6.0\lesson 011_find_index.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\bin\Debug\net6.0\lesson 011_find_index.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\bin\Debug\net6.0\lesson 011_find_index.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\bin\Debug\net6.0\lesson 011_find_index.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\bin\Debug\net6.0\lesson 011_find_index.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\obj\Debug\net6.0\lesson 011_find_index.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\obj\Debug\net6.0\refint\lesson 011_find_index.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\obj\Debug\net6.0\lesson 011_find_index.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\obj\Debug\net6.0\lesson 011_find_index.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson 011_find_index\obj\Debug\net6.0\ref\lesson 011_find_index.dll
