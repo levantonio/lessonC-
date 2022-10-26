@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\obj\Debug\net6.0\lesson012_randomArray.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\obj\Debug\net6.0\lesson012_randomArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\obj\Debug\net6.0\lesson012_randomArray.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\obj\Debug\net6.0\lesson012_randomArray.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\obj\Debug\net6.0\lesson012_randomArray.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\bin\Debug\net6.0\lesson012_randomArray.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\bin\Debug\net6.0\lesson012_randomArray.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\bin\Debug\net6.0\lesson012_randomArray.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\bin\Debug\net6.0\lesson012_randomArray.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\bin\Debug\net6.0\lesson012_randomArray.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\obj\Debug\net6.0\lesson012_randomArray.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\obj\Debug\net6.0\refint\lesson012_randomArray.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\obj\Debug\net6.0\lesson012_randomArray.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\obj\Debug\net6.0\lesson012_randomArray.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson012_randomArray\obj\Debug\net6.0\ref\lesson012_randomArray.dll
