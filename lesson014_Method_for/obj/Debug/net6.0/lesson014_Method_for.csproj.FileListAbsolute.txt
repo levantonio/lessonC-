@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\bin\Debug\net6.0\lesson014_Method_for.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\bin\Debug\net6.0\lesson014_Method_for.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\bin\Debug\net6.0\lesson014_Method_for.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\bin\Debug\net6.0\lesson014_Method_for.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\bin\Debug\net6.0\lesson014_Method_for.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\obj\Debug\net6.0\lesson014_Method_for.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\obj\Debug\net6.0\lesson014_Method_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\obj\Debug\net6.0\lesson014_Method_for.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\obj\Debug\net6.0\lesson014_Method_for.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\obj\Debug\net6.0\lesson014_Method_for.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\obj\Debug\net6.0\lesson014_Method_for.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\obj\Debug\net6.0\refint\lesson014_Method_for.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\obj\Debug\net6.0\lesson014_Method_for.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\obj\Debug\net6.0\lesson014_Method_for.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson014_Method_for\obj\Debug\net6.0\ref\lesson014_Method_for.dll
