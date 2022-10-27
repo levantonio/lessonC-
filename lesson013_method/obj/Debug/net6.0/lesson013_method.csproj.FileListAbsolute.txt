@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\obj\Debug\net6.0\lesson013_method.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\obj\Debug\net6.0\lesson013_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\obj\Debug\net6.0\lesson013_method.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\obj\Debug\net6.0\lesson013_method.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\obj\Debug\net6.0\lesson013_method.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\bin\Debug\net6.0\lesson013_method.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\bin\Debug\net6.0\lesson013_method.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\bin\Debug\net6.0\lesson013_method.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\bin\Debug\net6.0\lesson013_method.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\bin\Debug\net6.0\lesson013_method.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\obj\Debug\net6.0\lesson013_method.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\obj\Debug\net6.0\refint\lesson013_method.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\obj\Debug\net6.0\lesson013_method.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\obj\Debug\net6.0\lesson013_method.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson013_method\obj\Debug\net6.0\ref\lesson013_method.dll
