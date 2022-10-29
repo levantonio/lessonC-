@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\obj\Debug\net6.0\lesson016_sortArray.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\obj\Debug\net6.0\lesson016_sortArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\obj\Debug\net6.0\lesson016_sortArray.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\obj\Debug\net6.0\lesson016_sortArray.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\obj\Debug\net6.0\lesson016_sortArray.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\bin\Debug\net6.0\lesson016_sortArray.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\bin\Debug\net6.0\lesson016_sortArray.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\bin\Debug\net6.0\lesson016_sortArray.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\bin\Debug\net6.0\lesson016_sortArray.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\bin\Debug\net6.0\lesson016_sortArray.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\obj\Debug\net6.0\lesson016_sortArray.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\obj\Debug\net6.0\refint\lesson016_sortArray.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\obj\Debug\net6.0\lesson016_sortArray.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\obj\Debug\net6.0\lesson016_sortArray.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson016_sortArray\obj\Debug\net6.0\ref\lesson016_sortArray.dll
