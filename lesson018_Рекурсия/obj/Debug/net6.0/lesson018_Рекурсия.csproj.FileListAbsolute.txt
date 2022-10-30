@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\obj\Debug\net6.0\lesson018_Рекурсия.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\obj\Debug\net6.0\lesson018_Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\obj\Debug\net6.0\lesson018_Рекурсия.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\obj\Debug\net6.0\lesson018_Рекурсия.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\obj\Debug\net6.0\lesson018_Рекурсия.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\bin\Debug\net6.0\lesson018_Рекурсия.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\bin\Debug\net6.0\lesson018_Рекурсия.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\bin\Debug\net6.0\lesson018_Рекурсия.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\bin\Debug\net6.0\lesson018_Рекурсия.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\bin\Debug\net6.0\lesson018_Рекурсия.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\obj\Debug\net6.0\lesson018_Рекурсия.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\obj\Debug\net6.0\refint\lesson018_Рекурсия.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\obj\Debug\net6.0\lesson018_Рекурсия.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\obj\Debug\net6.0\lesson018_Рекурсия.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson018_Рекурсия\obj\Debug\net6.0\ref\lesson018_Рекурсия.dll
