@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\bin\Debug\net6.0\lesson017_двумерные_массивы.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\bin\Debug\net6.0\lesson017_двумерные_массивы.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\bin\Debug\net6.0\lesson017_двумерные_массивы.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\bin\Debug\net6.0\lesson017_двумерные_массивы.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\bin\Debug\net6.0\lesson017_двумерные_массивы.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\obj\Debug\net6.0\lesson017_двумерные_массивы.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\obj\Debug\net6.0\lesson017_двумерные_массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\obj\Debug\net6.0\lesson017_двумерные_массивы.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\obj\Debug\net6.0\lesson017_двумерные_массивы.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\obj\Debug\net6.0\lesson017_двумерные_массивы.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\obj\Debug\net6.0\lesson017_двумерные_массивы.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\obj\Debug\net6.0\refint\lesson017_двумерные_массивы.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\obj\Debug\net6.0\lesson017_двумерные_массивы.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\obj\Debug\net6.0\lesson017_двумерные_массивы.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson017_двумерные_массивы\obj\Debug\net6.0\ref\lesson017_двумерные_массивы.dll
