@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\obj\Debug\net6.0\lesson019_ fibonacchi.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\obj\Debug\net6.0\lesson019_ fibonacchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\obj\Debug\net6.0\lesson019_ fibonacchi.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\obj\Debug\net6.0\lesson019_ fibonacchi.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\obj\Debug\net6.0\lesson019_ fibonacchi.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\bin\Debug\net6.0\lesson019_ fibonacchi.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\bin\Debug\net6.0\lesson019_ fibonacchi.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\bin\Debug\net6.0\lesson019_ fibonacchi.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\bin\Debug\net6.0\lesson019_ fibonacchi.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\bin\Debug\net6.0\lesson019_ fibonacchi.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\obj\Debug\net6.0\lesson019_ fibonacchi.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\obj\Debug\net6.0\refint\lesson019_ fibonacchi.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\obj\Debug\net6.0\lesson019_ fibonacchi.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\obj\Debug\net6.0\lesson019_ fibonacchi.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson019_ fibonacchi\obj\Debug\net6.0\ref\lesson019_ fibonacchi.dll
