@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\obj\Debug\net6.0\lesson004_div.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\obj\Debug\net6.0\lesson004_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\obj\Debug\net6.0\lesson004_div.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\obj\Debug\net6.0\lesson004_div.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\obj\Debug\net6.0\lesson004_div.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\bin\Debug\net6.0\lesson004_div.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\bin\Debug\net6.0\lesson004_div.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\bin\Debug\net6.0\lesson004_div.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\bin\Debug\net6.0\lesson004_div.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\bin\Debug\net6.0\lesson004_div.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\obj\Debug\net6.0\lesson004_div.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\obj\Debug\net6.0\refint\lesson004_div.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\obj\Debug\net6.0\lesson004_div.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\obj\Debug\net6.0\lesson004_div.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson004_div\obj\Debug\net6.0\ref\lesson004_div.dll
