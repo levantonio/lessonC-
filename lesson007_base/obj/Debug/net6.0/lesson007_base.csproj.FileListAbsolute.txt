@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\bin\Debug\net6.0\lesson007_base.exe
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\bin\Debug\net6.0\lesson007_base.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\bin\Debug\net6.0\lesson007_base.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\bin\Debug\net6.0\lesson007_base.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\bin\Debug\net6.0\lesson007_base.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\obj\Debug\net6.0\lesson007_base.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\obj\Debug\net6.0\lesson007_base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\obj\Debug\net6.0\lesson007_base.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\obj\Debug\net6.0\lesson007_base.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\obj\Debug\net6.0\lesson007_base.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\obj\Debug\net6.0\lesson007_base.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\obj\Debug\net6.0\refint\lesson007_base.dll
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\obj\Debug\net6.0\lesson007_base.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\obj\Debug\net6.0\lesson007_base.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\lesson007_base\obj\Debug\net6.0\ref\lesson007_base.dll
