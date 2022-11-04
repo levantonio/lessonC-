@@ -9,5 +9,5 @@ int Fibonacci(int n)
 
 for (int i = 1; i < 10; i++) // i=1-- это из за того, что если будет 0 то будут минусовые значения
 {
-    Console.WriteLine(Fibonacci(i.));
+    Console.WriteLine(Fibonacci(i));
 }
