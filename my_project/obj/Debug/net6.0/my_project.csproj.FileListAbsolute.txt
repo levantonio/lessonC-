@@ -3,3 +3,13 @@ C:\Users\Михаил\Desktop\LESSON_C#\my_project\obj\Debug\net6.0\my_project.G
 C:\Users\Михаил\Desktop\LESSON_C#\my_project\obj\Debug\net6.0\my_project.AssemblyInfoInputs.cache
 C:\Users\Михаил\Desktop\LESSON_C#\my_project\obj\Debug\net6.0\my_project.AssemblyInfo.cs
 C:\Users\Михаил\Desktop\LESSON_C#\my_project\obj\Debug\net6.0\my_project.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\LESSON_C#\my_project\bin\Debug\net6.0\my_project.exe
+C:\Users\Михаил\Desktop\LESSON_C#\my_project\bin\Debug\net6.0\my_project.deps.json
+C:\Users\Михаил\Desktop\LESSON_C#\my_project\bin\Debug\net6.0\my_project.runtimeconfig.json
+C:\Users\Михаил\Desktop\LESSON_C#\my_project\bin\Debug\net6.0\my_project.dll
+C:\Users\Михаил\Desktop\LESSON_C#\my_project\bin\Debug\net6.0\my_project.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\my_project\obj\Debug\net6.0\my_project.dll
+C:\Users\Михаил\Desktop\LESSON_C#\my_project\obj\Debug\net6.0\refint\my_project.dll
+C:\Users\Михаил\Desktop\LESSON_C#\my_project\obj\Debug\net6.0\my_project.pdb
+C:\Users\Михаил\Desktop\LESSON_C#\my_project\obj\Debug\net6.0\my_project.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\LESSON_C#\my_project\obj\Debug\net6.0\ref\my_project.dll
